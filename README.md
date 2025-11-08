@@ -17,7 +17,7 @@
    <div style="display: flex; flex-direction: column">
       <img
 	width="730"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImDavixzDev&theme=midnight_purple](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImDavixzDev&theme=transparent"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImDavixzDev&theme=transparent"
       />
    </div
 </div>

@@ -11,13 +11,13 @@
      <img
 	style="min-width: 160px;"
 	height="160"
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=guustavocl&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=ImDavixzDev&theme=midnight_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
       />
    </div>
    <div style="display: flex; flex-direction: column">
       <img
 	width="730"
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guustavocl&theme=midnight_purple"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImDavixzDev&theme=midnight_purple"
       />
    </div
 </div>
